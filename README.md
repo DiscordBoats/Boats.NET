@@ -4,6 +4,11 @@
 This is the official API wrapper for the [Discord Boats](https://www.discord.boats) API.
 
 ## Usage
+In order to reference this API, append this to the top of your file:
+```cs
+using DiscordBoats;
+```
+
 
 ### Initializing a new client
 You can either initialize a `BaseBoatClient` or `BoatClient`. Initializing a `BoatClient` requires an API token and the ID of the bot that this client is meant for.
