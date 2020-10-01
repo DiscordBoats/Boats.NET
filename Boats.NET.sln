@@ -1,8 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boats.NET", "Boats.NET\Boats.NET.csproj", "{9C575C26-8109-47C3-A6BC-DA6EEB5E0FBA}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBoats", "DiscordBoats\DiscordBoats.csproj", "{9C575C26-8109-47C3-A6BC-DA6EEB5E0FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boats.NET.Tests", "Boats.NET.Tests\Boats.NET.Tests.csproj", "{0A43556C-A27B-4C8A-92E9-BA2F62284479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordBoats.Tests", "DiscordBoats.Tests\DiscordBoats.Tests.csproj", "{0A43556C-A27B-4C8A-92E9-BA2F62284479}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +22,10 @@ Global
 		{0A43556C-A27B-4C8A-92E9-BA2F62284479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A43556C-A27B-4C8A-92E9-BA2F62284479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {420C2070-CDEE-476C-A05D-3677C23089BC}
 	EndGlobalSection
 EndGlobal
