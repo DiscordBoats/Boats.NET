@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <PackageId>Boats.NET</PackageId>
+    <PackageIcon>Icon.png</PackageIcon>
+    <PackageIconUrl>Icon.png</PackageIconUrl>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>AbnerSquared</Authors>
     <Company>Discord Boats</Company>
@@ -24,6 +26,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\marketing\Icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
     <None Include="..\LICENSE.txt">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
