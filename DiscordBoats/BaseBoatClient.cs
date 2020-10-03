@@ -55,7 +55,6 @@ namespace DiscordBoats
             if (Disposed)
                 return;
 
-
             Disposed = true;
         }
     }
