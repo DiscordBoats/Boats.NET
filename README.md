@@ -1,5 +1,4 @@
-<img src="./marketing/Icon.png" width="64" height="64" />
-
+<img src="./marketing/Icon.png" width="64" height="64" /><br/>
 # Boats.NET
 [![NuGet](https://img.shields.io/nuget/vpre/Boats.NET.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/Boats.NET)
 
