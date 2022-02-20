@@ -1,3 +1,6 @@
+# DEPRECATED
+The website this module is for has shutdown.
+
 # Boats.NET
 [![NuGet](https://img.shields.io/nuget/vpre/Boats.NET.svg?maxAge=2592000?style=plastic)](https://www.nuget.org/packages/Boats.NET)
 
